@@ -1,7 +1,3 @@
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&left=true&vleft=true&width=940&lines=Hey+there%2C+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
 <h2>⚡ Tech Stack ⚡</h2>
 
 <div>
