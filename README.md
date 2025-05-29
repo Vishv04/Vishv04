@@ -9,8 +9,8 @@
 <h2>📊 GitHub Stats 📊</h2>
 
 <div style="display: flex; flex-direction:row; justify-content: left; align-items: left; width: 100%; text-align: left; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishv0407&show_icons=true&theme=tokyonight" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishv04&show_icons=true&theme=tokyonight" 
        alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishv0407&layout=compact&theme=tokyonight" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishv04&layout=compact&theme=tokyonight" 
        alt="Top Languages" height="180px" />
 </div>
