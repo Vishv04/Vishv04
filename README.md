@@ -12,6 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vishv04&show_icons=true&theme=tokyonight" 
        alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishv04&layout=compact&theme=tokyonight" 
-       alt="Top Languages" height="180px" />
+       alt="Top Languages" height="1800px" />
 </div>
 
